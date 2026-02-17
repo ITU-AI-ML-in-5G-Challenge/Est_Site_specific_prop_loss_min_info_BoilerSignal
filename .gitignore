@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+
+# Large 3D files
+*.obj
+
+# Generated / downloaded images
+satellite-imagery-downloader/img/
+satellite-imagery-downloader/src/images/
+satellite-imagery-downloader/src/range_images/

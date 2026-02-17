@@ -1,5 +1,5 @@
 # BoilerSignal (Purdue University)
-## Site-Specific Radio Propagation Loss Estimation with Minimal Information
+## Estimation of Site-Specific Radio Propagation Loss Estimation with Minimal Information
 ### ITU AI/ML in 5G Challenge
 
 **Authors:**  

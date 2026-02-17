@@ -7,6 +7,7 @@ Manish Kumar
 Ahmed P. Mohamed  
 PhD Candidates, Purdue University (at the time of the competition)
 
+Team BoilerSignal finished 4th in the ITU AI/ML in 5G Challenge
 ---
 
 ## 1. Introduction

@@ -12,7 +12,7 @@ Team BoilerSignal finished 4th in the ITU AI/ML in 5G Challenge
 
 ## 1. Introduction
 
-This repository contains the complete solution developed by **Team BoilerSignal (Purdue University)** for the **ITU AI/ML in 5G Challenge: Estimation of Site-Specific Radio Propagation Loss Estimation with Minimal Information**.
+This repository contains the complete solution developed by **Team BoilerSignal** for the **ITU AI/ML in 5G Challenge: Estimation of Site-Specific Radio Propagation Loss Estimation with Minimal Information**.
 
 The challenge, organized by the International Telecommunication Union (ITU) under the AI for Good initiative, focused on developing machine learning models for estimating **urban radio propagation loss (PL)** using limited geometric and environmental information.
 
